@@ -2,7 +2,7 @@ var request = new XMLHttpRequest();
 
 request.open('GET', 'data.txt');
 
-/* Создаём йункцию которая будет вызвана после учадного выполнения запроса */
+/* Создаём функцию, которая будет вызвана после удачного выполнения запроса */
 request.onreadystatechange = function() {
     if ((request.readyState === 4) && (request.status === 200)) {
         console.log(request);
