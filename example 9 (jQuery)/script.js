@@ -1,0 +1,4 @@
+$('.update').load('data.txt');
+
+
+
