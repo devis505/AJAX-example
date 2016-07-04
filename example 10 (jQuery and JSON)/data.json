@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ivanov Ivan",
+        "shortname": "Ivanov_I",
+        "reknown": "Designed by NY",
+        "bio": "Description"
+    },
+    {
+        "name": "Smith John",
+        "shortname": "Smith_J",
+        "reknown": "Programmer by Californy",
+        "bio": "Description"
+    }
+]
