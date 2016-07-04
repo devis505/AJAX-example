@@ -1,0 +1,14 @@
+<speakers>
+    <speaker>
+        <name>Ivanov Ivan</name>
+        <shortname>Ivanov_I</shortname>
+        <reknown>Designed by NY</reknown>
+        <bio>Description</bio>
+    </speaker>
+    <speaker>
+        <name>Smith John</name>
+        <shortname>Smith_J</shortname>
+        <reknown>Programmer by Californy</reknown>
+        <bio>Description</bio>
+    </speaker>
+</speakers>
