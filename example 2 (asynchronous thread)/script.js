@@ -1,6 +1,6 @@
 var request = new XMLHttpRequest();
 
-request.open('GET', 'data.txt', false);
+request.open('GET', 'data.txt');
 
 /* Создаём йункцию которая будет вызвана после учадного выполнения запроса */
 request.onreadystatechange = function() {
